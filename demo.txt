@@ -10,4 +10,7 @@ My numbers
 8
 9
 11 new number
+10
+12  main adding
+
 
